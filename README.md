@@ -1,0 +1,1 @@
+This is a project using Arduino 1.8.8 and Proteus 8 software. It is a simple calculator using keypad and LCD. 
